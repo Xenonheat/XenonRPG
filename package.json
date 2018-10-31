@@ -1,0 +1,16 @@
+{
+  "name": "xenonrpg",
+  "version": "1.0.0",
+  "description": "WebGL based RPG game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "game",
+    "rpg",
+    "webgl"
+  ],
+  "author": "Olufemi Adesina",
+  "license": "ISC"
+}
